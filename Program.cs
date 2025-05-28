@@ -3,7 +3,7 @@
 class Bike
 {
   string bikename="ducati";
-  string bikename2="bmw";
+  string bikename2="suzuki";
   static void Main(string[] args)
   {
     Bike one=new Bike();
